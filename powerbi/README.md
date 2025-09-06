@@ -1,0 +1,1 @@
+Importa CSV desde data/processed/ y crea visuales (línea/volcano/heatmap).

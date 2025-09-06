@@ -1,0 +1,43 @@
+# Entornos virtuales
+venv/
+.env/
+*.env
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Notebooks: checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Salidas de análisis de datos
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+
+# Carpeta de PowerBI local
+*.pbix
+
+# Carpeta de SQL exportadas si son pesadas
+*.db
+*.sqlite
+
+# Configuración de VSCode y PyCharm
+.vscode/
+.idea/
+
+# Otros archivos que no quieres versionar
+*.zip
+*.rar

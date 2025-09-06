@@ -1,0 +1,1 @@
+SELECT anio, semana, SUM(valor) AS total_semana FROM urgencias_long GROUP BY anio, semana;
