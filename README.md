@@ -37,9 +37,6 @@ Análisis de datos clínicos en servicios de urgencias. Incluye limpieza, análi
 🔹 **Proyecto B – Botrytis**  
 Análisis transcriptómico de *Botrytis cinerea* utilizando datos de GEO. Normalización y análisis diferencial de expresión.
 
-🔹 **Proyecto C – Metagenómica**  
-Evaluación de diversidad microbiana en muestras ambientales con datos de GMrepo. Procesamiento de secuencias y métricas de abundancia relativa.
-
 ---
 
 ## ⚙️ Instalación y uso
@@ -102,5 +99,5 @@ Este proyecto está bajo la licencia MIT, lo que significa que puedes usarlo, mo
 
 📬 Contacto
 👤 Jaime Naranjo
-✉️ tu_correo@ejemplo.com
-🔗 GitHub | LinkedIn
+✉️ jaime.naranjo619@gmail.com
+🔗 GitHub | LinkedIn (https://www.linkedin.com/in/jaime-naranjo-reyes-698830149/)
